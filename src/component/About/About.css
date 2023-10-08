@@ -1,0 +1,17 @@
+.about__offer {
+    background-image: url("../../assets/img/about/about-bg-1.jpg") !important;
+    background-size: cover;
+    background-position: center;
+}
+
+.about__gallery-review {
+    background-image: url("../../assets/img/about/about-img-1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.subscribe-thumb {
+    background-image: url("../../assets/img/popup/subscribe-bg.jpg");
+    background-size: cover;
+    background-position: center;
+}

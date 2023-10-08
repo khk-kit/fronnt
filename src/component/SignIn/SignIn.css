@@ -1,0 +1,5 @@
+.include-login-bg {
+    background-image: url("../../assets/img/page-title/page-title-1.jpg");
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,14 @@
+.returns_p_tag {
+    font-weight: 400;
+}
+
+.returns_list li {
+    list-style-type: disclosure-closed;
+    margin-left: 20px;
+}
+
+.returns_refunds_banner_bg {
+    background-image: url("../../assets/img/shipping/return-refunds.png");
+    background-size: cover;
+    background-position: center;
+  }

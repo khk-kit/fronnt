@@ -1,0 +1,12 @@
+
+.include-bg {
+    background-image: url("../../assets/img/page-title/page-title-1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.centered-link {
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+}
